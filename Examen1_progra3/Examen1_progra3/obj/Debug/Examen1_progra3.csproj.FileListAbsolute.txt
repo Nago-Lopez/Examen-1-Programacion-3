@@ -1,0 +1,7 @@
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\bin\Debug\Examen1_progra3.exe.config
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\bin\Debug\Examen1_progra3.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\bin\Debug\Examen1_progra3.pdb
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\obj\Debug\Examen1_progra3.csproj.AssemblyReference.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\obj\Debug\Examen1_progra3.csproj.CoreCompileInputs.cache
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\obj\Debug\Examen1_progra3.exe
+C:\Users\Abdenago\Desktop\Carrera Ingenieria en Sistemas\2023 III Cuatrimestre\Programacion 3\Visual\Examen1_progra3\Examen1_progra3\obj\Debug\Examen1_progra3.pdb
